@@ -1,0 +1,186 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Enemy_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Coral</Value>
+    </Setting>
+    <Setting Name="Team_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 192, 0</Value>
+    </Setting>
+    <Setting Name="Key_Show_MENU" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">F1</Value>
+    </Setting>
+    <Setting Name="SNAPLINE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ESP_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="SNAPLINE_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="ESP_Size" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SNAPLINE_Size" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ESP_Form" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ESP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SNAPLINE_Starting_Point" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="OVERLAY" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AIM_Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">X</Value>
+    </Setting>
+    <Setting Name="Show_DISTANCE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AIMBOT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Background_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">30, 30, 30</Value>
+    </Setting>
+    <Setting Name="AIM_Auto_Fire" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CROSSHAIR" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CROSSHAIR_Size" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="CROSSHAIR_Thickness" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="CROSSHAIR_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="AIMOT_Target" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AIMBOT_Acceleration" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="Aim_FOV" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="Draw_Aim_Fov" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Active_Func_Key" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Default_Fore_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="FPS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="Show_FPS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="VSAT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Show_Allies" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Show_Name" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="VSYNC" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Aim_Filter" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AIMBOT_FOV_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="ESP_VISIBLE_TEXT" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ESP_SIZE_TEXT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="ESP_FILLED_BORDER_COLOR" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="ESP_ALLIES_COLOR" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="Profiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">default</Value>
+    </Setting>
+    <Setting Name="Show_PING" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Show_Text_Border" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">30, 30, 30</Value>
+    </Setting>
+    <Setting Name="Normal_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="Menu_Border_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">250, 120, 0</Value>
+    </Setting>
+    <Setting Name="FPS_CORNER" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AUTO_FIRE_MS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Player_Name_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Player_Ping_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Menu_Opacity" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.95</Value>
+    </Setting>
+    <Setting Name="FontText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Consolas</Value>
+    </Setting>
+    <Setting Name="ControllerButtonAIMBOT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">R2</Value>
+    </Setting>
+    <Setting Name="ControllerToggleAIMBOT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Up</Value>
+    </Setting>
+    <Setting Name="ControllerToggleESP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Down</Value>
+    </Setting>
+    <Setting Name="ControllerToggleSNAPLINE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Left</Value>
+    </Setting>
+    <Setting Name="ControllerToggleVSAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Right</Value>
+    </Setting>
+    <Setting Name="ControllerAIMBOTButtonPressed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TextAntiAliasing" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ControllerToggleCROSSHAIR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT</Value>
+    </Setting>
+    <Setting Name="Draw_Enemy_Close" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
