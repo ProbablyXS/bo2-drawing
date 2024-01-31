@@ -4,8 +4,14 @@ This software lets you see enemies behind the wall.
 
 Use different libraries to work with the drawing
 
- 
-Security :
+Using vs 2019 for build the .exe
+.net framework 4.7
+
+
+
+
+
+Older security :
 
 Using mongodb to getting all offset(s) from the db.
 Each game(s) has specified table and offset(s).
