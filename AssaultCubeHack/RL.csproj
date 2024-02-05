@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RL</RootNamespace>
     <AssemblyName>RL</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
     <IsWebBootstrapper>false</IsWebBootstrapper>
@@ -275,6 +275,7 @@
     <EmbeddedResource Include="Resources\dll\Com.Okmer.GameController.dll" />
     <None Include="Resources\Close.png" />
     <None Include="Resources\Close02.png" />
+    <Content Include="Newtonsoft.Json.dll" />
     <Content Include="Resources\Ellipse.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
@@ -286,6 +287,6 @@
   </Target>
   -->
   <Target Name="AfterCompile">
-    <Exec Command="if &quot;$(ConfigurationName)&quot; == &quot;Release&quot; (&quot;$(ProjectDir)_ConfuserEx\Confuser.CLI.exe&quot; &quot;$(ProjectDir)_ConfuserEx\c.crproj&quot;)&#xD;&#xA;" />
+    <Exec Command="echo &quot;&quot;" />
   </Target>
 </Project>
