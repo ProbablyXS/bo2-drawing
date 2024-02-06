@@ -1,5 +1,7 @@
 # vecr-project-bo2
 
+Discord : https://discord.com/invite/DhkSVvJpJw
+
 This software lets you see enemies behind the wall.
 
 Use different libraries to work with the drawing
