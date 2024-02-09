@@ -35,7 +35,7 @@ namespace Examples
 
         //target process
         public const string processName = "plutonium-bootstrapper-win32";
-        public const string processGame = "Black Ops II - Multiplayer";
+        public const string processGame = "Plutonium T6";
         public static string processMainApp = @"\r\n";
         public static Process process;
 
