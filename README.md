@@ -42,8 +42,11 @@ Security 3) After have selected a specified game the launcher going to be taking
 game and downloading the software.
 Each link address is encrypted as : base64 and AES
 
-AES.Key = Jw9B69Tv6w61J2xCAPtZaqegflOXYeez
+AES.Key = Jw9B69Tv6w61J2xCAPtZaqegflOXYeez (256 bits)
 AES.IV = SU7VLJvqBnh1ohwV
+
+CBC MODE
+BASE64
 
 Base64 do not have any protected key.
 
