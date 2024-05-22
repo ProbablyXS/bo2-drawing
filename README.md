@@ -20,5 +20,5 @@ This is the last version of my software that can be found here.
 The software use .NET in C#.
 This software is a external program and the software don't writing anything into the game memory for safe the ban only your gameplay affect your ban acc.
 
-[![Watch the video](https://github.com/ProbablyXS/bo2-drawing/assets/99107085/0cd210a4-77b6-4ea5-9ed4-6e0fc81f486b)](https://www.youtube.com/watch?v=PyQXJrSkp9w)
+[![Watch the video](https://github.com/ProbablyXS/bo2-drawing/assets/99107085/0cd210a4-77b6-4ea5-9ed4-6e0fc81f486b)](https://www.youtube.com/watch?v=mzU15JfSn94&t=33s)
 
